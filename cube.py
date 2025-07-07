@@ -488,6 +488,8 @@ cube1.scramble(scramble=scramble)
 print(f"Sequence: {cube1.solve_edges()}")
 print(f"Unsolved: {cube1.check_solved_edges()[1]}")
 
+#hello this is a test
+
 # cube = Cube()
 # cube.edge_swap_alg('d')
 # print(cube.edge)
