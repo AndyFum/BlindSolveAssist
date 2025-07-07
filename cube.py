@@ -489,6 +489,7 @@ print(f"Sequence: {cube1.solve_edges()}")
 print(f"Unsolved: {cube1.check_solved_edges()[1]}")
 
 #hello this is a test
+#this this is a second test
 
 # cube = Cube()
 # cube.edge_swap_alg('d')
